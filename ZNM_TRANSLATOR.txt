@@ -1,4 +1,4 @@
-REPORT znm_devt_translator MESSAGE-ID 00.
+REPORT znm_translator MESSAGE-ID 00.
 *--------------------------------------------------------- GLOBAL DATA *
 TABLES t002.                        "Language Keys
 TYPE-POOLS: abap, icon, ole2, sscr. "Only for old versions
